@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fm-countries-app/static/css/main.f802d115.css",
-    "main.js": "/fm-countries-app/static/js/main.c9aa0618.js",
+    "main.js": "/fm-countries-app/static/js/main.5af5f06d.js",
     "index.html": "/fm-countries-app/index.html",
     "main.f802d115.css.map": "/fm-countries-app/static/css/main.f802d115.css.map",
-    "main.c9aa0618.js.map": "/fm-countries-app/static/js/main.c9aa0618.js.map"
+    "main.5af5f06d.js.map": "/fm-countries-app/static/js/main.5af5f06d.js.map"
   },
   "entrypoints": [
     "static/css/main.f802d115.css",
-    "static/js/main.c9aa0618.js"
+    "static/js/main.5af5f06d.js"
   ]
 }
